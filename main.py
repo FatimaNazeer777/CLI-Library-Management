@@ -1,4 +1,4 @@
-# Dictionary to store books and available copies
+## Dictionary to store books and available copies
 library = {}
 def add_book():
     """Function to add a book to the library"""
